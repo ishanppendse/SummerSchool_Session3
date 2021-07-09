@@ -1,2 +1,2 @@
-# SummerScool_Session3
+# SummerSchool_Session3
 Repo with content and assignment for Session 3, Summer School
