@@ -1,12 +1,12 @@
 # Assignment for Session 3
 Hello everyone! Thanks for attending the third session of **Deep Learning Master-Class**. We hope you enjoyed the session. To consolidate upon the concepts learnt, you will be implementing **Support Vector Machines (SVMs)** on the Titanic dataset as the assignment for this session.
 ## Dataset
-The Dataset to be used in the assignment is the popular *Titanic Dataset*. It presents a binary classification task, wherein we have to predict if a particular person will survive the Titanic shipwreck given a set of features. You will find the test and train datasets in the repository as **train.csv** and **test.csv**.
+The Dataset to be used in the assignment is the popular *Titanic Dataset*. It presents a binary classification task, wherein we have to predict if a particular person will survive the Titanic shipwreck given a set of features.
 ## Support Vector Machines
 SVMs are a supervised learning algorithm, and can be used for classification as well as regression. SVMs are quite useful, being memory efficient and having a versatile choice of kernels. In the following task, you will be experimenting with two kernels: *linear kernel* and *rbf (Radial Basis Function) kernel* and finding the best set of hyperparameters for each of them.
 ## Task
 *Read all the step-wise instructions carefully. Note that all submissions are to be made via a Google form, the link for which is given in the following section.*
-1. Load the datasets **train.csv** and **test.csv** given in the repo.
+1. Load the zipped folder [Datasets.zip](Datasets.zip) which contains the training and test datasets.
 2. After performing data cleaning on the training set, generate *any three visualisations for the data of your choice.* For data cleaning, you may refer to the session notebook for [logistic regression](). Save the generated images in .jpg/.png format, and submit the three images in the Google form.
 3. Construct a binary classifier for the *Titanic dataset* using the **sklearn.svm.SVC class**. Details follow in the subsequent points.
 4. In the above task, use the *linear* and *rbf* kernels. Each of the two kernels has one or more hyperparameters associated with it. You are expected to find the best set of hyperparameters for each of the two kernels. Use GridSearchCV on the training dataset for this purpose. The hyperparameters expected to be tuned for each of the kernels are: 
