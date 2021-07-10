@@ -15,10 +15,10 @@ SVMs are a supervised learning algorithm, and can be used for classification as 
 5. Report the best hyperparameter values for each of the kernels in the submission Google form. *(Think: How will you feed in a wide range of values for each hyperparameter to GridSearch, while ensuring that the total number of values is not too large for execution of GridSearch in reasonable time? Answer given in the bottom.)* 
 6. Make predictions for the test dataset using each of the two kernels along with the best parameters obtained from the previous step. Submit your predictions for the test dataset, one for each of the two kernels in csv format. Note that the submission should have a single column with the predicted values *(use index=False while saving the predictions using .to_csv)*.
 7. Submit your code as well.
-8. **Optional:** Try using other kernels like *poly,sigmoid* and report the best hyperparameters for those.
+8. **Optional:** Try using other kernels like *poly, sigmoid* and report the best hyperparameters for those.
 ## Making the submission
 Make your submissions in this [Google form.](https://forms.gle/JT2CJJ9wZbsPBkD17)  
-**Deadline** for the submission is **Tuesday, 13th July till 12 noon**
+**Deadline** for the submission is **Tuesday, 13th July till 12 noon.**
 ## Supporting Material
 The following references can be used for the stated purposes:
 * [An article to understand SVM basics, mathematical intuition, need for kernels and an overview of hyperparameters involved](https://towardsdatascience.com/svm-and-kernel-svm-fed02bef1200)
