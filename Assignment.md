@@ -7,7 +7,7 @@ SVMs are a supervised learning algorithm, and can be used for classification as 
 ## Task
 *Read all the step-wise instructions carefully. Note that all submissions are to be made via a Google form, the link for which is given in the following section.*
 1. Load the zipped folder [Datasets.zip](Datasets.zip) which contains the training and test datasets.
-2. After performing data cleaning on the training set, generate *any three visualisations for the data of your choice.* For data cleaning, you may refer to the session notebook for [logistic regression](). Save the generated images in .jpg/.png format, and submit the three images in the Google form.
+2. After performing data cleaning on the training set, generate *any three visualisations for the data of your choice.* For data cleaning, you may refer to the session notebook for [logistic regression](https://colab.research.google.com/drive/1we-KLioF8qVjVXsB13tORjQALJYjSHLG?usp=sharing). Save the generated images in .jpg/.png format, and submit the three images in the Google form.
 3. Construct a binary classifier for the *Titanic dataset* using the **sklearn.svm.SVC class**. Details follow in the subsequent points.
 4. In the above task, use the *linear* and *rbf* kernels. Each of the two kernels has one or more hyperparameters associated with it. You are expected to find the best set of hyperparameters for each of the two kernels. Use GridSearchCV on the training dataset for this purpose. The hyperparameters expected to be tuned for each of the kernels are: 
     1. **Linear Kernel:** C
@@ -17,8 +17,8 @@ SVMs are a supervised learning algorithm, and can be used for classification as 
 7. Submit your code as well.
 8. **Optional:** Try using other kernels like *poly,sigmoid* and report the best hyperparameters for those.
 ## Making the submission
-Make your submissions in this [Google form.]()  
-**Deadline** for the submission is 
+Make your submissions in this [Google form.](https://forms.gle/JT2CJJ9wZbsPBkD17)  
+**Deadline** for the submission is **Tuesday, 13th July till 12 noon**
 ## Supporting Material
 The following references can be used for the stated purposes:
 * [An article to understand SVM basics, mathematical intuition, need for kernels and an overview of hyperparameters involved](https://towardsdatascience.com/svm-and-kernel-svm-fed02bef1200)
