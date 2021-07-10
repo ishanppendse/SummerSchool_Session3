@@ -25,7 +25,7 @@ The following references can be used for the stated purposes:
 * [Documentation for sklearn.svm.SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
 * [GridSearchCV explanation and implementation](https://towardsdatascience.com/gridsearchcv-for-beginners-db48a90114ee)
 * Bonus (not required to solve the assignment): [A tutorial to understand the rigorous mathematical formulation of SVMs](https://www.svm-tutorial.com/2014/11/svm-understanding-math-part-1/)
-* You may also refer to the relevant theory given at the end of the [session notebook]()
+* You may also refer to the relevant theory given at the end of the [session notebook](https://colab.research.google.com/drive/1CekCToXAKB7Ife1r1Ya8Vz9PfDpUjuA3?authuser=1#scrollTo=hXMRQgBgWXgR).
 
 All the best for the task! Feel free to reach out to us in case of any doubts.
 
