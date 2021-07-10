@@ -18,7 +18,7 @@ SVMs are a supervised learning algorithm, and can be used for classification as 
 8. **Optional:** Try using other kernels like *poly, sigmoid* and report the best hyperparameters for those.
 ## Making the submission
 Make your submissions in this [Google form.](https://forms.gle/JT2CJJ9wZbsPBkD17)  
-**Deadline** for the submission is **Tuesday, 13th July till 12 noon.**
+**Deadline** for the submission is **EOD Tuesday, 13th July**
 ## Supporting Material
 The following references can be used for the stated purposes:
 * [An article to understand SVM basics, mathematical intuition, need for kernels and an overview of hyperparameters involved](https://towardsdatascience.com/svm-and-kernel-svm-fed02bef1200)
